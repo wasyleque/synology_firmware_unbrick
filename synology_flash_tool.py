@@ -4,7 +4,7 @@ Synology Flash Tool - Automatic firmware image creator for SPI flash
 Supports: DS213+, and other PPC/MVortex platforms
 
 Usage:
-    python synology_flash_tool.py --model DS213+ --mac 00113218139E --sn CAL1N10508
+    python synology_flash_tool.py --model DS213+ --mac 00113218139B --sn CAL1N10509
     python synology_flash_tool.py --interactive
     python synology_flash_tool.py --list-models
 """
